@@ -40,10 +40,10 @@
 - 🔹 [**Job Portal – Full Stack Application**](https://github.com/vijay3063/Job-Portal-Website)  
   MERN stack project with candidate & recruiter workflows, API testing, and scalable backend design.  
 
-- 🔹 **OCR Model Development**  
+- 🔹 [**OCR Model Development**](https://colab.research.google.com/drive/1hOWcc8Wg00uGa9AyouWXniChaI313u1h)
   Built Deep Learning models (CNN, ANN) for text recognition with preprocessing and automated evaluation.  
 
-- 🔹 **Marketplace Platform (Freelance – Ongoing)**  
+- 🔹 [**Marketplace Platform (Freelance – Ongoing)**](https://github.com/vijay3063/HOME-BONZENGA-Beauty-Appointment-Website)
   Backend developer for salon booking & marketplace platform with AWS deployment and real-time APIs.  
 
 ---
